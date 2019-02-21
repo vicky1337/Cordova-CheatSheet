@@ -1,8 +1,8 @@
 # Cordova-CheatSheet
-
-
  
 APACHE CORDOVA CHEAT SHEET
+
+
 1.Create Project $ cordova create hello com.example.hello HelloWorld 
 
 2.Add Platform $ cordova platform add ios $ cordova platform add android
